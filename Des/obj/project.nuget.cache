@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/JMie0BVwiDb1A4JXEi6081NMaRxY24vUK1zumESGajCXx7d2FggSoZp1ZUjkEFLmXw7x3rNkvtKeEmploUlQ==",
+  "dgSpecHash": "KTR9gasExIaeqqqLrWvyWx/THj3o+KYA7kS1xVUfvu3+pQYNnwXwH4Hd9LprGoleT4ERYvkjKSWKGDmjt3MHgQ==",
   "success": true,
-  "projectFilePath": "D:\\6 семестр\\ИСОБ\\Лаб2\\Solution\\Des\\Des.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\6 семестр\\ИСОБ\\Лаб2\\Kdc\\Des\\Des.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
