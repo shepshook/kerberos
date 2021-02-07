@@ -1,0 +1,21 @@
+services:
+  consoleapp:
+    build:
+      context: .
+      dockerfile: ./ConsoleApp/Dockerfile
+    image: consoleapp:dc
+    links:
+      - kdc
+      - server
+  server:
+    build:
+      context: .
+      dockerfile: ./Server/Dockerfile
+    image: server:dc
+    links:
+      - kdc
+  kdc:
+    build:
+      context: .
+      dockerfile: ./Kdc/Dockerfile
+    image: kdc:dc
